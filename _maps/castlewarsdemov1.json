@@ -1,6 +1,6 @@
 {
     "map_name": "Castle-Wars Demo v1",
-    "map_path": "map_files/castlewars/castlewarsdemov1",
+    "map_path": "map_files/castlewarsdemov1",
     "map_file": "castlewarsdemov1.dmm",
 
 	"traits": [
