@@ -4,11 +4,7 @@
     "map_file": "castlewarsdemov1.dmm",
 
 	"traits": [
-				{"Up": true, "Turf Weather Effects": true},
-				{"Up": true, "Down": true, "Turf Weather Effects": true, "Baseturf": "/turf/open/transparent/openspace"},
-				{"Up": true, "Down": true, "Turf Weather Effects": true, "Baseturf": "/turf/open/transparent/openspace"},
-				{"Up": true, "Down": true, "Turf Weather Effects": true, "Baseturf": "/turf/open/transparent/openspace"},
-				{"Down": true, "Turf Weather Effects": true, "Baseturf": "/turf/open/transparent/openspace"}
+				{"Up": true, "Turf Weather Effects": true}
 			],
 
 	"minetype": null,
