@@ -3,7 +3,7 @@
 "c" = (/mob/dead/new_player,/turf/open/floor/rogue/hay,/area/rogue/outdoors)
 "d" = (/obj/machinery/light/rogue/campfire{status = 1},/turf/open/floor/rogue/hay,/area/rogue/outdoors)
 "e" = (/mob/living/carbon/human,/turf/open/floor/rogue/hay,/area/rogue/outdoors)
-"f" = (/obj/effect/landmark/start/villager{dir = 1},/obj/effect/landmark/start,/obj/effect/landmark/start/barkeeper,/obj/effect/landmark/start/barkeep,/turf/open/floor/rogue/hay,/area/rogue/outdoors)
+"f" = (/obj/effect/landmark/start/villager{dir = 1},/obj/effect/landmark/start,/obj/effect/landmark/start/barkeeper,/obj/effect/landmark/start/barkeep,/obj/effect/landmark/latejoin,/turf/open/floor/rogue/hay,/area/rogue/outdoors)
 "g" = (/obj/machinery/light/rogue/firebowl/standing,/turf/open/floor/rogue/hay,/area/rogue/outdoors)
 
 (1,1,1) = {"
